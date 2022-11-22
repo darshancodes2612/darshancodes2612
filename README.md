@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darshan
-- 👀 I’m interested in anndroid development,robotics,aiml,iot.
+- 👀 I’m interested in android development,robotics,aiml,iot.
 - 🌱 I’m currently learning android development
 - 📫 How to reach me joshi.darshan1826@gmail.com
 
